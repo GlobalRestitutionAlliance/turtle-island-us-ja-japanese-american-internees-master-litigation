@@ -1,0 +1,10 @@
+{
+  "url": "https://www.justice.gov/crt",
+  "final_url": "https://www.justice.gov/crt",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 114207,
+  "sha256": "f40ca2dddc85001cdd63524f1a610b457e76bf66801fd591d4666fa9ffb151ff",
+  "captured_at": "2026-11-21T22:22:47.179690Z",
+  "custodian": "OpenCode/harvest"
+}

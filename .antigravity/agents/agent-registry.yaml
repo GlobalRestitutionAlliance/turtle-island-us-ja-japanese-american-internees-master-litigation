@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-japanese-american-internees-canal-and-intervention-historian
-  name: Japanese American Internees Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-japanese-american-internees-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ja_001
+    name: Japanese American Internees Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_002
+    name: Japanese American Internees Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_003
+    name: Japanese American Internees Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_004
+    name: Japanese American Internees Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_005
+    name: Japanese American Internees Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_006
+    name: Japanese American Internees Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_007
+    name: Japanese American Internees Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_008
+    name: Japanese American Internees Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_009
+    name: Japanese American Internees Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_010
+    name: Japanese American Internees Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_011
+    name: Japanese American Internees Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_012
+    name: Japanese American Internees Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_013
+    name: Japanese American Internees Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_014
+    name: Japanese American Internees Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_015
+    name: Japanese American Internees Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_016
+    name: Japanese American Internees Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_017
+    name: Japanese American Internees Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_018
+    name: Japanese American Internees Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_019
+    name: Japanese American Internees Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_020
+    name: Japanese American Internees Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_021
+    name: Japanese American Internees Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_022
+    name: Japanese American Internees Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_023
+    name: Japanese American Internees Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_024
+    name: Japanese American Internees Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_025
+    name: Japanese American Internees Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_026
+    name: Japanese American Internees Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_027
+    name: Japanese American Internees Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_028
+    name: Japanese American Internees Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_029
+    name: Japanese American Internees Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_030
+    name: Japanese American Internees Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_031
+    name: Japanese American Internees Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_032
+    name: Japanese American Internees Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_033
+    name: Japanese American Internees Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_034
+    name: Japanese American Internees Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_035
+    name: Japanese American Internees Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_036
+    name: Japanese American Internees Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_037
+    name: Japanese American Internees Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_038
+    name: Japanese American Internees Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_039
+    name: Japanese American Internees Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_040
+    name: Japanese American Internees Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_041
+    name: Japanese American Internees Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_042
+    name: Japanese American Internees Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_043
+    name: Japanese American Internees Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_044
+    name: Japanese American Internees Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_045
+    name: Japanese American Internees Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_046
+    name: Japanese American Internees Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_047
+    name: Japanese American Internees Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_048
+    name: Japanese American Internees Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_049
+    name: Japanese American Internees Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_050
+    name: Japanese American Internees Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_051
+    name: Japanese American Internees Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_052
+    name: Japanese American Internees Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_053
+    name: Japanese American Internees Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_054
+    name: Japanese American Internees Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_055
+    name: Japanese American Internees Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_056
+    name: Japanese American Internees Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_057
+    name: Japanese American Internees Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_058
+    name: Japanese American Internees Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_059
+    name: Japanese American Internees Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_060
+    name: Japanese American Internees Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_061
+    name: Japanese American Internees Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_062
+    name: Japanese American Internees Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_063
+    name: Japanese American Internees Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_064
+    name: Japanese American Internees Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_065
+    name: Japanese American Internees Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_066
+    name: Japanese American Internees Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_067
+    name: Japanese American Internees Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_068
+    name: Japanese American Internees Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_069
+    name: Japanese American Internees Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_070
+    name: Japanese American Internees Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_071
+    name: Japanese American Internees Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_072
+    name: Japanese American Internees Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_073
+    name: Japanese American Internees Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_074
+    name: Japanese American Internees Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_075
+    name: Japanese American Internees Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_076
+    name: Japanese American Internees Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_077
+    name: Japanese American Internees Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_078
+    name: Japanese American Internees Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_079
+    name: Japanese American Internees Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_080
+    name: Japanese American Internees Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_081
+    name: Japanese American Internees Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_082
+    name: Japanese American Internees Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_083
+    name: Japanese American Internees Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_084
+    name: Japanese American Internees Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_085
+    name: Japanese American Internees Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_086
+    name: Japanese American Internees Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_087
+    name: Japanese American Internees Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_088
+    name: Japanese American Internees Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_089
+    name: Japanese American Internees Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_090
+    name: Japanese American Internees Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_091
+    name: Japanese American Internees Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_092
+    name: Japanese American Internees Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_093
+    name: Japanese American Internees Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_094
+    name: Japanese American Internees Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_095
+    name: Japanese American Internees Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_096
+    name: Japanese American Internees Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_097
+    name: Japanese American Internees Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_098
+    name: Japanese American Internees Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_099
+    name: Japanese American Internees Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_100
+    name: Japanese American Internees Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_101
+    name: Japanese American Internees Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_102
+    name: Japanese American Internees Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_103
+    name: Japanese American Internees Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_104
+    name: Japanese American Internees Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_105
+    name: Japanese American Internees Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_106
+    name: Japanese American Internees Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_107
+    name: Japanese American Internees Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_108
+    name: Japanese American Internees Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_109
+    name: Japanese American Internees Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_110
+    name: Japanese American Internees Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_111
+    name: Japanese American Internees Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_112
+    name: Japanese American Internees Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_113
+    name: Japanese American Internees Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_114
+    name: Japanese American Internees Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_115
+    name: Japanese American Internees Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_116
+    name: Japanese American Internees Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_117
+    name: Japanese American Internees Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_118
+    name: Japanese American Internees Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_119
+    name: Japanese American Internees Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_120
+    name: Japanese American Internees Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_121
+    name: Japanese American Internees Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_122
+    name: Japanese American Internees Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_123
+    name: Japanese American Internees Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_124
+    name: Japanese American Internees Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_125
+    name: Japanese American Internees Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_126
+    name: Japanese American Internees Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_127
+    name: Japanese American Internees Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_128
+    name: Japanese American Internees Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_129
+    name: Japanese American Internees Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_130
+    name: Japanese American Internees Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_131
+    name: Japanese American Internees Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_132
+    name: Japanese American Internees Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_133
+    name: Japanese American Internees Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_134
+    name: Japanese American Internees Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_135
+    name: Japanese American Internees Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_136
+    name: Japanese American Internees Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_137
+    name: Japanese American Internees Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_138
+    name: Japanese American Internees Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_139
+    name: Japanese American Internees Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_140
+    name: Japanese American Internees Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_141
+    name: Japanese American Internees Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_142
+    name: Japanese American Internees Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_143
+    name: Japanese American Internees Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_144
+    name: Japanese American Internees Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_145
+    name: Japanese American Internees Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_146
+    name: Japanese American Internees Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_147
+    name: Japanese American Internees Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_148
+    name: Japanese American Internees Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_149
+    name: Japanese American Internees Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_150
+    name: Japanese American Internees Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_151
+    name: Japanese American Internees Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_152
+    name: Japanese American Internees Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_153
+    name: Japanese American Internees Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_154
+    name: Japanese American Internees Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_155
+    name: Japanese American Internees Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_156
+    name: Japanese American Internees Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_157
+    name: Japanese American Internees Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_158
+    name: Japanese American Internees Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_159
+    name: Japanese American Internees Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_160
+    name: Japanese American Internees Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_161
+    name: Japanese American Internees Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_162
+    name: Japanese American Internees Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_163
+    name: Japanese American Internees Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_164
+    name: Japanese American Internees Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_165
+    name: Japanese American Internees Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_166
+    name: Japanese American Internees Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_167
+    name: Japanese American Internees Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_168
+    name: Japanese American Internees Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_169
+    name: Japanese American Internees Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ja_170
+    name: Japanese American Internees Agent 170
+    status: ACTIVE_SCAFFOLD

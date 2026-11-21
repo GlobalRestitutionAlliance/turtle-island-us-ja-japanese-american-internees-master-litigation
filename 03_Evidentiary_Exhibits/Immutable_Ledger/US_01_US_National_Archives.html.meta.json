@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/",
+  "final_url": "https://www.archives.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 29358,
+  "sha256": "43ffbf8776e35f7fea79214e14782d2a13d0165b6b7a0db78d9b36ec3842e7fc",
+  "captured_at": "2026-11-21T22:22:46.556735Z",
+  "custodian": "OpenCode/harvest"
+}
