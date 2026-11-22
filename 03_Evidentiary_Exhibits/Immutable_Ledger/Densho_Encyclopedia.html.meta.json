@@ -1,0 +1,12 @@
+{
+  "url": "https://encyclopedia.densho.org/",
+  "final_url": "https://encyclopedia.densho.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 15439,
+  "sha256": "b4c20b568237de016c62affe6e1d55c40b7b2eff571eae69293cc91a9dd8c46b",
+  "captured_at": "2026-11-22T16:40:17.071817Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
