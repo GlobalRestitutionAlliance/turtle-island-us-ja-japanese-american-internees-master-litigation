@@ -1,0 +1,12 @@
+{
+  "url": "https://www.hathitrust.org/",
+  "final_url": "https://www.hathitrust.org/",
+  "status": 200,
+  "title": "HathiTrust Digital Library \u2013 Millions of books online",
+  "bytes": 80039,
+  "sha256": "1e2d435391a94dc81e9d4afec002db019d224b8ae137becab3311e5d4416d7a0",
+  "captured_at": "2026-11-22T20:40:23.770784Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

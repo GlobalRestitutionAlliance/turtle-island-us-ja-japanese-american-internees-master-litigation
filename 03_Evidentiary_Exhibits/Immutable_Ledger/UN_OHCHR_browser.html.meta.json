@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ohchr.org/",
+  "final_url": "https://www.ohchr.org/en/ohchr_homepage",
+  "status": 200,
+  "title": "UN Human Rights Office",
+  "bytes": 80021,
+  "sha256": "30e49019679928e28b334130c5eeade038dad52bd1101f45c32b6b4025f384b6",
+  "captured_at": "2026-11-22T20:39:29.359403Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

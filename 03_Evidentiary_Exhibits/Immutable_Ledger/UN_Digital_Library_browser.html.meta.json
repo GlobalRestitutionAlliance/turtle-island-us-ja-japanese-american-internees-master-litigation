@@ -1,0 +1,12 @@
+{
+  "url": "https://digitallibrary.un.org/",
+  "final_url": "https://digitallibrary.un.org/",
+  "status": 200,
+  "title": "United Nations Digital Library System",
+  "bytes": 26594,
+  "sha256": "ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86",
+  "captured_at": "2026-11-22T20:40:23.770784Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

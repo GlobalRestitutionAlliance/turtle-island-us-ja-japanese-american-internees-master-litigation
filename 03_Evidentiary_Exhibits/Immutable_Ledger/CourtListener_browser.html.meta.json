@@ -1,0 +1,12 @@
+{
+  "url": "https://www.courtlistener.com/",
+  "final_url": "https://www.courtlistener.com/",
+  "status": 200,
+  "title": "Non-Profit Free Legal Search Engine and Alert System \u2013 CourtListener.com",
+  "bytes": 52213,
+  "sha256": "c5c0cdfab5d210a376fe7f984f48aa8eebc2a2307424f9955a8f90e03386d5b7",
+  "captured_at": "2026-11-22T20:39:29.359403Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
