@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [US National Archives](https://www.archives.gov/)
 - [Library of Congress](https://www.loc.gov/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
@@ -20,3 +19,6 @@
 - [NARA - Japanese American Incarceration](https://www.archives.gov/education/lessons/japanese-relocation)
 - [Densho Encyclopedia](https://encyclopedia.densho.org/)
 - [Library of Congress - Japanese American Internment](https://www.loc.gov/classroom-materials/japanese-american-internment/)
+- [National Archives - EO 9066](https://www.archives.gov/milestone-documents/executive-order-9066)
+- [GovInfo - CWRIC report](https://www.govinfo.gov/app/details/GPO-CRECB-1983-pt16/GPO-CRECB-1983-pt16-3-1)
+- [JACL History](https://jacl.org/history)

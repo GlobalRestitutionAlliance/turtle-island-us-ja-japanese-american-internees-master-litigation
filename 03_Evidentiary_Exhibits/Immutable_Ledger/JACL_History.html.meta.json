@@ -1,0 +1,12 @@
+{
+  "url": "https://jacl.org/history",
+  "final_url": "https://jacl.org/history",
+  "status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 889986,
+  "sha256": "f126ca98d1eb5be2b096aaca597930bdedc448ba43bbe0d237458b7b490a6a65",
+  "captured_at": "2026-11-22T19:58:37.247314Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "pilot-1"
+}

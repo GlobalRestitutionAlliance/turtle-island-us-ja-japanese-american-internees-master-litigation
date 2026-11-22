@@ -24,3 +24,13 @@
 | 2026-11-22 | NARA_-_Japanese_American_Incarceration.html | https://www.archives.gov/education/lessons/japanese-relocation | OpenCode/harvest | 8be84974a971eb5200739d1809aae5c1d81e0eb1d7cc697663a169351e181242 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=63586 |
 | 2026-11-22 | Densho_Encyclopedia.html | https://encyclopedia.densho.org/ | OpenCode/harvest | b4c20b568237de016c62affe6e1d55c40b7b2eff571eae69293cc91a9dd8c46b | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=15439 |
 | 2026-11-22 | Library of Congress - Japanese American Internment | https://www.loc.gov/classroom-materials/japanese-american-internment/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Library of Congress - Japanese American Internment | https://www.loc.gov/classroom-materials/japanese-american-internment/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | National_Archives_-_EO_9066.html | https://www.archives.gov/milestone-documents/executive-order-9066 | OpenCode/harvest | b0f36e49b2f709101a422c938d74270ce9295d5ef94662e1ed50a1fd3af020ec | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=44868 |
+| 2026-11-22 | GovInfo_-_CWRIC_report.html | https://www.govinfo.gov/app/details/GPO-CRECB-1983-pt16/GPO-CRECB-1983-pt16-3-1 | OpenCode/harvest | 57495912a3ca92ac9c34deae1b03ce959ba6e640fd560ee6c304633f1b4551fd | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2616 |
+| 2026-11-22 | JACL_History.html | https://jacl.org/history | OpenCode/harvest | f126ca98d1eb5be2b096aaca597930bdedc448ba43bbe0d237458b7b490a6a65 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=889986 |
