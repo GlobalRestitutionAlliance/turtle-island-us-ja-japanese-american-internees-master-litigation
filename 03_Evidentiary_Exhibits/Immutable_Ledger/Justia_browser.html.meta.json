@@ -1,12 +1,13 @@
 {
   "url": "https://www.justia.com/",
   "final_url": "https://www.justia.com/",
-  "status": 200,
   "title": "Justia :: Free Law & Legal Information for Lawyers, Students, Business and the Public",
   "bytes": 80049,
   "sha256": "c9f8c146687724e54683192b83c8b307e6d9f7aa0433ce81ac5e7826fd2d9219",
   "captured_at": "2026-11-22T20:40:23.770784Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
