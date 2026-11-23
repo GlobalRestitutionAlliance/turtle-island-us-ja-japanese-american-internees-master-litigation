@@ -1,0 +1,13 @@
+{
+  "url": "https://www.nps.gov/subjects/japaneseamericanconfinement/index.htm",
+  "final_url": "https://www.nps.gov/subjects/japaneseamericanconfinement/index.htm",
+  "title": "National Park Service - Manzanar/ incarceration sites",
+  "fetched_at": "2026-11-23T00:42:39.595572Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes": 54600,
+  "sha256": "877ad170c91140d3b30a3227aa28fab0cfad2d1ac718f44051dfbcede6be3791",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
+}
