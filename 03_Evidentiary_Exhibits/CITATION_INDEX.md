@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `79635161d2a32085...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `c5c0cdfab5d210a3...` | PENDING_LEGAL_REVIEW
@@ -28,4 +28,4 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0024: https://www.uscourts.gov/educational-resources/educational-activities/facts-and-case-summary-korematsu-v-us | `03_Evidentiary_Exhibits/Immutable_Ledger/US_Courts_-_Korematsu_records_context.html` | `e09f5b262493dd6d...` | PENDING_LEGAL_REVIEW
 - CIT-0025: https://www.congress.gov/bill/100th-congress/house-bill/442 | `03_Evidentiary_Exhibits/Immutable_Ledger/Civil_Liberties_Act_Congress.gov_browser.html` | `0acb74c11ec0db8d...` | PENDING_LEGAL_REVIEW
 - CIT-0026: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
-- CIT-0027: https://www.loc.gov/item/?q=japanese+american+internment | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Japanese_American_internment_a93d731c_browser.html` | `d12757c77c082b5d...` | PENDING_LEGAL_REVIEW
+- CIT-0027: https://www.loc.gov/item/?q=japanese+american+internment | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Japanese_American_internment_a93d731c_browser.html` | `d12757c77c082b5d...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
